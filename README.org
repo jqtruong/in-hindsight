@@ -1,0 +1,5 @@
+#+STARTUP: hidestars
+
+* Summary
+  Create a storyboard UI then attach a backend system to
+  keep track of players progress in their stories.
